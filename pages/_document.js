@@ -5,6 +5,7 @@ export default function Document() {
     <Html lang="it">
       <Head>
         <link rel="icon" type="image/png" href="/logo.png" />
+        <link rel="shortcut icon" type="image/png" href="/logo.png" />
         <meta name="theme-color" content="#ffffff" />
         <meta name="application-name" content="HVAC AI App" />
       </Head>
