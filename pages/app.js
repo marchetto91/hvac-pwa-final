@@ -1,15 +1,13 @@
-function MyApp({ Component, pageProps }) {
-return (
 import Head from 'next/head';
-<>
-<Head>
-<link rel="icon" href="/logo.png" sizes="192x192" type="image/png" />
-<link rel="apple-touch-icon" href="/logo.png" />
-<meta name="apple-mobile-web-app-capable" content="yes" />
-</Head>
-<Component {...pageProps} />
-</>
-)
-}
 
-export default MyApp
+export default function MyApp({ Component, pageProps }) {
+  return (
+    <>
+      <Head>
+        <title>HVAC AI App</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+      </Head>
+      <Component {...pageProps} />
+    </>
+  );
+}
