@@ -4,8 +4,8 @@ export default function Document() {
   return (
     <Html lang="it">
       <Head>
-        <link rel="icon" type="image/png" href="/logo.png" />
-        <link rel="shortcut icon" type="image/png" href="/logo.png" />
+        {/* Favicon definitiva */}
+        <link rel="icon" type="image/x-icon" href="/favicon.ico" />
         <meta name="theme-color" content="#ffffff" />
         <meta name="application-name" content="HVAC AI App" />
       </Head>
