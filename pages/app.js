@@ -1,5 +1,6 @@
 function MyApp({ Component, pageProps }) {
 return (
+import Head from 'next/head';
 <>
 <Head>
 <link rel="icon" href="/logo.png" sizes="192x192" type="image/png" />
