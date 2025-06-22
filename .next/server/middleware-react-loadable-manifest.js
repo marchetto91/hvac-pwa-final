@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST="{\"canvas.js -> ../components/CanvasDesigner\":{\"id\":\"canvas.js -> ../components/CanvasDesigner\",\"files\":[\"static/chunks/components_CanvasDesigner_js.js\"]}}"
+self.__REACT_LOADABLE_MANIFEST="{}"

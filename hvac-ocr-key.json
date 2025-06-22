@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "hvac-ocr-ai",
+  "private_key_id": "7af426654da978e00a7299638d8bb6dd57f268eb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDMU9ru/k+Cfxu9\njQ8qlJ2hxd9tOwgq4WJ9ASjmP8jTsHEw2BEt4DovqbEYWwkg6xBPP/i88aTKFIQc\nvkf76wapw4MFyi8rd98kX9P97T/CQRjwFtr//86kUYpEhN7suSCgkSNiAIzFrUO5\nE2Ga4qxVagotMoim0JysGeItub42S7RaycnAtduo6abVkO7GuviHN5zviEorOwwr\nZTKd3c42NEYXxWleoQfxtbSkgcSyCACw/YYuqkis/ejmtSSWjQR3dBaqLb9UGdRt\nTbc9YPkL3BcPUjkOxpLe4ZaKHRWkLpelbdTRxGRqyGv/M1ehAkzSp1Go5nB08lai\nGlmBofSDAgMBAAECggEABYK3c12heFQERALzZ0MV00Caa4A9kqZ8eQGYgEk1Gdx2\n2QniwLl86D8r2wvNfblJOdHwW+wqdRbDj2DkYRtwFREEThorVoFHn9wDxCPrZcpK\nqWL8ag4UnSLj10A8IOdHRX1UlnaMVWJ8YpfuuHYnjrAq8RgdTl5u80dJbdFGG4G3\n0YY1QSmceLpqVUjXpBvFdH0Ea1bLNadHFH/4xa5XXYsvqKhssigKhTvTBqWZojk2\nX7Ona7LGPWDzHiTFTDwuB+0d2qrEUl9DgfrhgaqAFHdEVkVt253gGNGfZt3zGTEs\ncrwJa83szChU40cUvp0GeuBRrVl9Ycqti6HXCUleFQKBgQDzp03VRRrL80BML53k\nw+Rs3PemfIkFcQ/krsZSxSzJhGMDo7Vlv3/5h21r083tzeb6ZzLwh68Yy2VCfgTq\n3kVkFWWMsgymAc7rzrah+AX4js+XaUkC/KiPOnokMag4rIrv8hBv7vCySvjjZJyI\n1jZcrKcVDkI6dDo/8pfUqCZ9xwKBgQDWrmk7CZDUti9R20voV/FUznaUakaqjjZY\nZtCotrXvoy5u3lxv4DL9kwEPLJViCG7cTD/ilRDG2hwXJrsrTsTfTKwCSbpEGcst\n9haKuipyHkZjwwmN+vtd/hlY7ZaK+AjNu9cI7/T+XoGtTeb41tn5SZZs4gWnJwUX\n3y2MJT8DZQKBgQDahW0X3i9nRRWgfoA0gL/oJtFxHnXhTIJ9jYZPC4ncfgAzbmqt\nA2/qQlyPfVlOcwE6CL413Orb6Oc7GDyezJQda9c0tScE59BFypIfd4sbXjGuUP3r\nUOB3/HE47tQ5Z/3/rvCxAvIaZYUMo9qEGuKMgUgkaTJarIzld1RWpCxJVwKBgQDN\njUWYj3orER2RxOWTW9DooJ8NUAzFdVE3p4oWYIsnHhlxclsTi5mHDeAvxUJrESQE\nrsVkj9H2dBP9XspLlyoNnH392tYMKp5OLZg70DCf/7jqAG7/kNZpksh2S1afTQow\n4q/sEMWFYLvNUg/bJuyiMgFj064R89x+lOQpkegZuQKBgA+CQNrbWcYA9OS98YZO\n7X+6tJiovl6fyUuJlMDuVNZYG8qTFN6XCFF2lLdyIf6jXSwBklSlJTqI1H3rdDJ2\npxFIxpBYKR+d8w3rBd1l3ai6/OGFmKm9IO4/MhVeUe4PXk0p/OtlC5OlUOqAvYtr\nFDNCHWMmnxH6DYD8TK+wmj3c\n-----END PRIVATE KEY-----\n",
+  "client_email": "hvac-ocr-service@hvac-ocr-ai.iam.gserviceaccount.com",
+  "client_id": "106038114521409385589",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hvac-ocr-service%40hvac-ocr-ai.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
