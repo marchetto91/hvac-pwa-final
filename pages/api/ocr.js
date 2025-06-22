@@ -1,4 +1,5 @@
-mport fs from 'fs';
+import formidable from 'formidable';
+import fs from 'fs';
 import { v1p3beta1 as vision } from '@google-cloud/vision';
 import { GoogleAuth } from 'google-auth-library';
 
@@ -26,7 +27,9 @@ export default async function handler(req, res) {
     const filePath = files.file.filepath;
 
     try {
-      const credentials = JSON.parse(process.env.GOOGLE_APPLICATION_CREDENTIALS);
+      const base64Credentials = process.env.GOOGLE_APPLICATION_CREDENTIALS_BASE64;
+      const credentialsJSON = Buffer.from(base64Credentials, 'base64').toString('utf8');
+      const credentials = JSON.parse(credentialsJSON);
       const auth = new GoogleAuth({ credentials });
       const client = new vision.ImageAnnotatorClient({ auth });
 
